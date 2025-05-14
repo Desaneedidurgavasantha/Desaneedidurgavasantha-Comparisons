@@ -44,7 +44,7 @@ public class Lab {
         return a<b;
     }
     /**
-     * @param a the first number to be compared.
+     * @param a the first number to be compard.
      * @param b the second number to be compared.
      * @return true if a is greater than or equal to b, false otherwise.
      */
