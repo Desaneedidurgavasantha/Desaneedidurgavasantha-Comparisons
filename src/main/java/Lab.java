@@ -12,7 +12,6 @@
  * represented by 'a' and 'b', the expression may be written as: boolean result = a==b;. For any problem in this 
  * lab, this expression can be written on a single line, as a boolean expression can be resolved instantly just
  * like a math equation. For instance, the solution to 'isEqual' would be the single line return a==b;
- * 
  * You'll need to know more operators to complete the remaining parts of the lab. You can find resources online
  * by searching for keywords like: java comparison operators.
  */
