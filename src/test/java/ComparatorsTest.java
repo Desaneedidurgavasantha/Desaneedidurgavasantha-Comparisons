@@ -104,7 +104,7 @@ public class ComparatorsTest {
         Assert.assertEquals(expected, actual);
     }
     /**
-     * If greaterThanOrEqualTo is passed two numbers where a is greater than b, then greaterThanOrEqualTo
+     * IfgreaterThanOrEqualTo is passed two numbers where a is greater than b, then greaterThanOrEqualTo
      * should return true.
      */
     @Test
