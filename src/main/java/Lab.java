@@ -23,7 +23,8 @@ public class Lab {
      * @param b the second number to be compared.
      * @return true if a is equal to b, false otherwise.
      */
-    public boolean isEqual(int a, int b){
+    public boolean isEqual(int a, int b)
+    {
         return a==b;
     }
 
