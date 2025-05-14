@@ -4,7 +4,6 @@
  * depending on the current state of the program.
  * Therefore, we're inevitably going to run into boolean expressions (ie true/false statements).
  * Let's start with the different ways to compare two unknown numbers, in this case a and b.
- * 
  * Boolean logic can be thought of just like a math equation such as 4*5 = 20. When programming, however,
  * we can almost never assume that a value is known. Instead, we'd have to represent that equation as:
  * int result = a*b; where a and b represent two unknown numbers. This can also be applied logical expressions. 
